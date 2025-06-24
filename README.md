@@ -20,5 +20,5 @@ A simplified Binance Futures trading bot using the Testnet API.
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/binance-trading-bot.git
-cd binance-trading-bot
+git clone https://github.com/Shiv3003/Trading-Bot.git
+cd Trading-Bot
