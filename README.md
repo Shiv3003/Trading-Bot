@@ -1,17 +1,22 @@
-# Binance Futures Trading Bot (Testnet)
+# Binance Trading Bot 🤖
 
-A simplified trading bot to interact with Binance Futures Testnet using Python and the `python-binance` library.
+A simplified Binance Futures trading bot using the Testnet API.
 
 ## Features
-- Place MARKET and LIMIT orders
-- Place OCO Order
-- Place Stop-Loss Order
-- Run Grid-Trading
-- Command-line input with validation
-- Logging for API actions and errors
-- Structured and reusable code
+- Market & Limit Orders
+- Stop-Loss Orders
+- Grid Trading Strategy
+- OCO Orders (Spot only)
+- Secure `.env` usage
+- Logging and CLI interface
 
 ## Setup
+1. Clone this repo
+2. Run `pip install -r requirements.txt`
+3. Set your `.env` with testnet credentials
+4. Run `python main.py`
+
+> Educational use only. Use wisely and safely.
 
 ### 1. Clone the repo
 ```bash
